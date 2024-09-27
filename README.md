@@ -47,7 +47,6 @@ Je suis un développeur passionné par les technologies web et toujours curieux 
 
 ## 📫 Contactez-moi
 
-- [GitHub](https://github.com/JeremDevX)
 - [LinkedIn](https://www.linkedin.com/in/jeremie-lavergnat/)
 
 Merci d'avoir visité mon profil ! Si vous souhaitez collaborer ou simplement discuter, n'hésitez pas à me contacter.
