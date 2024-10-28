@@ -1,13 +1,13 @@
 # 👋 JeremDevX
 ![Funny GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk2eG05bWMzeDlnazBxbXNlbmc0dXVncmJ0YzY3NzJtdWRkNmRrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp)
 
-Bienvenue sur mon profil GitHub !
+Welcome to my GitHub profile!
 
-Je suis un développeur passionné par les technologies web et toujours curieux d'en apprendre davantage. Vous trouverez ici quelques aperçus de mes compétences et projets.
+I’m a developer passionate about web technologies and always eager to learn more. Here, you’ll find some glimpses of my skills and projects.
 
 ---
 
-## 🚀 Technologies que j'utilise
+## 🚀 Technologies I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@ Je suis un développeur passionné par les technologies web et toujours curieux 
 
 ---
 
-## 📚 Technologies qui me font de l'oeil
+## 📚 Technologies I'm Interested In
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
@@ -35,21 +35,21 @@ Je suis un développeur passionné par les technologies web et toujours curieux 
 
 ---
 
-## 🎮 Ce que j'aime faire de mon temps libre
+## 🎮 What I Enjoy in My Free Time
 
-- 🎮 Jouer à des jeux vidéo (RPG, MMORPG)
-- 🧑‍💻 Explorer les nouvelles technologies
-- 🛠️ Travailler sur des projets personnels
-- 🥾 Faire de la randonnée
-- 🎶 Créer de la musique (MAO)
+- 🎮 Playing video games (RPG, MMORPG)
+- 🧑‍💻 Exploring new technologies
+- 🛠️ Working on personal projects
+- 🥾 Hiking
+- 🎶 Creating music (DAW)
 
 ---
 
-## 📫 Contactez-moi
+## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/jeremie-lavergnat/)
 
-Merci d'avoir visité mon profil ! Si vous souhaitez collaborer ou simplement discuter, n'hésitez pas à me contacter.
+Thank you for visiting my profile! If you’d like to collaborate or just have a chat, feel free to reach out.
 
 <!--
 **JeremDevX/JeremDevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
