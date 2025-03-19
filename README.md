@@ -25,19 +25,14 @@ I’m a developer passionate about web technologies and always eager to learn mo
 
 ## 📚 Technologies I'm Interested In
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
 ## 🎮 What I Enjoy in My Free Time
 
-- 🎮 Playing video games (RPG, MMORPG)
 - 🧑‍💻 Exploring new technologies
 - 🛠️ Working on personal projects
 - 🥾 Hiking
