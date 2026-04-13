@@ -96,13 +96,6 @@ Outside software, I’m drawn to things that require patience, rhythm, and atten
 
 ---
 
-## Language Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremDevX&layout=compact&theme=dark&hide_border=true&bg_color=0F1110&title_color=D8D1C2&text_color=A7B0AA&icon_color=B8893C" alt="Top Languages" />
-</div>
-
----
 
 ## Reach Out
 
@@ -111,7 +104,6 @@ I’m always interested in serious conversations around:
 - product building
 - software architecture
 - AI and developer workflows
-- work-study opportunities
 
 <div align="center">
 
